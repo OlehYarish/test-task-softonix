@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Cypress screenshots and videos
+cypress/screenshots/
+cypress/videos/
+
+# Environment files
+.env
+.env.local
+
+# Logs
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db

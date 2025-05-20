@@ -1,0 +1,10 @@
+{
+  "baseURL": "https://www.saucedemo.com/",
+  "valid_username": "standard_user",
+  "valid_password": "secret_sauce",
+  "firstName": "Oleh",
+  "lastName": "Yarish",
+  "postalCode": "79060",
+  "checkoutComplete": "Checkout: Complete!",
+  "completeMessage": "Thank you for your order"
+}
